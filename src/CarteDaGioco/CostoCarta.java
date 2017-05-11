@@ -1,4 +1,4 @@
-package CarteDaGioco;
+package carteDaGioco;
 
 /**
  * Created by william on 10/05/2017.
@@ -21,4 +21,23 @@ public class CostoCarta {
 
     }
 
+    public int getCostoLegna() {
+        return costoLegna;
+    }
+
+    public int getCostoMonete() {
+        return costoMonete;
+    }
+
+    public int getCostoPietra() {
+        return costoPietra;
+    }
+
+    public int getCostoPuntiMilitari() {
+        return costoPuntiMilitari;
+    }
+
+    public int getCostoServitori() {
+        return costoServitori;
+    }
 }
