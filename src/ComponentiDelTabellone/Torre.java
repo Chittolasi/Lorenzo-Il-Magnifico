@@ -7,7 +7,7 @@ public class Torre {
     private String tipo;
     private Piano[] piani;
     private boolean[] occupata;
-
+//commento
     public Torre(String tipo){
         this.tipo=tipo;
         //creo il primo piano che ha costo 1 e non ha effetto
