@@ -6,7 +6,7 @@ package ComponentiDelTabellone;
 public class Torre {
     private String tipo;
     private Piano[] piani;
-    private boolean[] occutapa;
+    private boolean[] occupata;
 
     public Torre(String tipo){
         this.tipo=tipo;
